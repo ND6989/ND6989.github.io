@@ -1,1 +1,15 @@
+# Site settings
+title: Your Awesome Site Name  # 키티일기장
+email: your-email@example.com
+description: "노션에서 깃허브로 옮겨온 당신의 깔끔한 포트폴리오 블로그입니다." # 이곳에 간단한 설명을 넣어주세요.
+baseurl: "" # 만약 [아이디].github.io/repo-name 형태라면 /repo-name을 입력합니다. 지금은 비워둡니다.
+url: "https://[당신의-아이디].github.io" # 웹사이트 주소를 정확히 입력합니다.
 
+# Build settings
+markdown: kramdown # 마크다운 엔진 설정
+theme: minima # 지킬 기본 테마 (가장 깔끔하고 추천)
+
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
